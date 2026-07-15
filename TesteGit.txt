@@ -1,0 +1,27 @@
+git config --global user.name "Seu Nome"
+
+git config --global user.email "seu@email.com"
+
+cd
+
+git init
+
+git status
+
+git add seu_arquivo.txt (ou git add .)
+
+git commit -m "texto com sentido"
+
+git branch
+
+git checkout -b nomeBranch
+
+git switch nomeBranch
+
+git merge nomeBranch => (branch com novidades)
+
+git log --all --graph --oneline
+
+git remote add origin [URL_DO_DESTINO]
+
+git push -u origin main
