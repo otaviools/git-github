@@ -24,6 +24,6 @@ git log --all --graph --oneline
 
 git remote add origin [URL_DO_DESTINO] => https://github.com/otaviools/git-github
 
-git push -u origin main main
+git push -u origin main
 
 Temos Otavio e Otavia no grupo, Otavio ao quadrado!
