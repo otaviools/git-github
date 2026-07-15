@@ -29,3 +29,5 @@ git push -u origin main
 Temos Otavio e Otavia no grupo, Otavio ao quadrado!
 
 TFTI é muito legal!
+
+Git é muito útil!
