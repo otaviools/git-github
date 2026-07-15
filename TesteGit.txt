@@ -22,6 +22,6 @@ git merge nomeBranch => (branch com novidades)
 
 git log --all --graph --oneline
 
-git remote add origin [URL_DO_DESTINO]
+git remote add origin [URL_DO_DESTINO] => https://github.com/otaviools/git-github
 
 git push -u origin main
